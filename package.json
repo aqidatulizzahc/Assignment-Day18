@@ -1,0 +1,24 @@
+{
+  "name": "assignment-day18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aqidatulizzahc/Assignment-Day18.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aqidatulizzahc/Assignment-Day18/issues"
+  },
+  "homepage": "https://github.com/aqidatulizzahc/Assignment-Day18#readme",
+  "dependencies": {
+    "lodash": "^4.18.1"
+  }
+}
